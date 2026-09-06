@@ -1,0 +1,86 @@
+{
+  "categories": [
+    {
+      "id": "c1",
+      "name": "Yinlin",
+      "cover_url": "https://raw.githubusercontent.com/.../yinlin_cover.jpg",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/.../yinlin_1.jpg",
+        "https://raw.githubusercontent.com/.../yinlin_2.jpg"
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Jinhsi",
+      "cover_url": "https://raw.githubusercontent.com/.../jinhsi_cover.jpg",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/.../jinhsi_1.jpg",
+        "https://raw.githubusercontent.com/.../jinhsi_2.jpg"
+      ]
+    },
+    {
+       "id": "c3",
+       "name": "Jiyan",
+       "cover_url": "https://raw.githubusercontent.com/.../jiyan_cover.jpg",
+       "wallpapers": [
+         "https://raw.githubusercontent.com/.../jiyan_1.jpg"
+         ]
+    },
+    {
+       "id": "c4",
+       "name": "Jiyan",
+       "cover_url": "https://raw.githubusercontent.com/.../jiyan_cover.jpg",
+       "wallpapers": [
+         "https://raw.githubusercontent.com/.../jiyan_1.jpg"
+         ]
+    },
+    {
+       "id": "c5",
+       "name": "Jiyan",
+       "cover_url": "https://raw.githubusercontent.com/.../jiyan_cover.jpg",
+       "wallpapers": [
+         "https://raw.githubusercontent.com/.../jiyan_1.jpg"
+         ]
+    },
+    {
+       "id": "c6",
+       "name": "Jiyan",
+       "cover_url": "https://raw.githubusercontent.com/.../jiyan_cover.jpg",
+       "wallpapers": [
+         "https://raw.githubusercontent.com/.../jiyan_1.jpg"
+         ]
+    },
+    {
+       "id": "c7",
+       "name": "Jiyan",
+       "cover_url": "https://raw.githubusercontent.com/.../jiyan_cover.jpg",
+       "wallpapers": [
+         "https://raw.githubusercontent.com/.../jiyan_1.jpg"
+         ]
+    },
+    {
+       "id": "c8",
+       "name": "Jiyan",
+       "cover_url": "https://raw.githubusercontent.com/.../jiyan_cover.jpg",
+       "wallpapers": [
+         "https://raw.githubusercontent.com/.../jiyan_1.jpg"
+         ]
+    },
+    {
+       "id": "c9",
+       "name": "Jiyan",
+       "cover_url": "https://raw.githubusercontent.com/.../jiyan_cover.jpg",
+       "wallpapers": [
+         "https://raw.githubusercontent.com/.../jiyan_1.jpg"
+         ]
+    },
+    {
+       "id": "c10",
+       "name": "Jiyan",
+       "cover_url": "https://raw.githubusercontent.com/.../jiyan_cover.jpg",
+       "wallpapers": [
+         "https://raw.githubusercontent.com/.../jiyan_1.jpg"
+       ]
+    }
+  ]
+}
