@@ -3,11 +3,11 @@
     {
       "id": "c1",
       "name": "Denia",
-      "cover_url": "https://github.com/RXBajaHitam/wuwa-wallpaper-data/blob/f3b6883877dc614240b2961f635e5047c6afb13b/Denia%20(1).jpg",
+      "cover_url": "https://github.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(1).jpg",
       "wallpapers": [
-        "https://github.com/RXBajaHitam/wuwa-wallpaper-data/blob/f3b6883877dc614240b2961f635e5047c6afb13b/Denia%20(1).jpg",
-        "https://github.com/RXBajaHitam/wuwa-wallpaper-data/blob/main/Denia%20(2).jpg"
-        "https://github.com/RXBajaHitam/wuwa-wallpaper-data/blob/main/Denia%20(3).jpg"
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(1).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(2).jpg"
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(3).jpg"
         
       ]
     },
