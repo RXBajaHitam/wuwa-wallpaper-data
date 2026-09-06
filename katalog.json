@@ -1,132 +1,6 @@
 {
   "categories": [
     {
-      "id": "c1",
-      "name": "Denia",
-      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(9).jpg",
-      "wallpapers": [
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(1).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(2).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(3).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(4).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(5).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(6).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(7).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(8).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(9).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(10).jpg"
-      ]
-    },
-    {
-      "id": "c2",
-      "name": "Carlotta",
-      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(2).jpg",
-      "wallpapers": [
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(1).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(2).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(3).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(4).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(5).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(6).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(7).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(8).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(9).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(10).jpg"
-      ]
-    },
-    {
-       "id": "c3",
-       "name": "Aemeath",
-       "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(3).jpg",
-       "wallpapers": [
-         "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(1).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(2).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(3).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(4).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(5).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(6).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(7).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(8).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(9).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(10).jpg"
-       ]
-    },
-    {
-      "id": "c_cartethyia",
-      "name": "Cartethyia",
-      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(1).jpg",
-      "wallpapers": [
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(1).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(2).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(3).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(4).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(5).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(6).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(7).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(8).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(9).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(10).jpg"
-       ]
-    },
-    {
-       "id": "c_hiyuki",
-      "name": "Hiyuki",
-      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(1).jpg",
-      "wallpapers": [
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(1).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(2).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(3).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(4).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(5).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(6).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(7).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(8).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(9).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(10).jpg"
-      ]
-    },
-    {
-      "id": "c_jingran",
-      "name": "Jingran",
-      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(1).jpg",
-      "wallpapers": [
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(1).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(2).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(3).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(4).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(5).jpg"
-      ]
-    },
-    {
-      "id": "c_jiyan",
-      "name": "Jiyan",
-      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(1).jpg",
-      "wallpapers": [
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(1).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(2).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(3).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(4).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(5).jpg"
-      ]
-    },
-    {
-      "id": "c_lynae",
-      "name": "Lynae",
-      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(1).jpg",
-      "wallpapers": [
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(1).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(2).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(3).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(4).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(5).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(6).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(7).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(8).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(9).jpg",
-        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(10).jpg"
-      ]
-    },
-    {
       "id": "c_suisui",
       "name": "Suisui",
       "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Suisui%20(1).jpg",
@@ -159,4 +33,132 @@
         "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Yangyang_.Xuanling%20(9).jpg",
         "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Yangyang_.Xuanling%20(10).jpg"
       ]
+    },
+    {
+      "id": "c_hiyuki",
+      "name": "Hiyuki",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(1).jpg",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(1).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(2).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(3).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(4).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(5).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(6).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(7).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(8).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(9).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Hiyuki%20(10).jpg"
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Carlotta",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(2).jpg",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(1).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(2).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(3).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(4).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(5).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(6).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(7).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(8).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(9).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Carlotta%20(10).jpg"
+      ]
+    },
+    {
+      "id": "c_lynae",
+      "name": "Lynae",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(1).jpg",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(1).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(2).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(3).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(4).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(5).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(6).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(7).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(8).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(9).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Lynae%20(10).jpg"
+      ]
+    },
+    {
+      "id": "c3",
+      "name": "Aemeath",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(3).jpg",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(1).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(2).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(3).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(4).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(5).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(6).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(7).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(8).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(9).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Aemeath%20(10).jpg"
+      ]
+    },
+    {
+      "id": "c1",
+      "name": "Denia",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(9).jpg",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(1).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(2).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(3).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(4).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(5).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(6).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(7).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(8).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(9).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Denia%20(10).jpg"
+      ]
+    },
+    {
+      "id": "c_cartethyia",
+      "name": "Cartethyia",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(1).jpg",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(1).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(2).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(3).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(4).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(5).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(6).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(7).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(8).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(9).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Cartethyia%20(10).jpg"
+      ]
+    },
+    {
+      "id": "c_jiyan",
+      "name": "Jiyan",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(1).jpg",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(1).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(2).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(3).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(4).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jiyan%20(5).jpg"
+      ]
+    },
+    {
+      "id": "c_jingran",
+      "name": "Jingran",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(1).jpg",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(1).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(2).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(3).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(4).jpg",
+        "https://raw.githubusercontent.com/RXBajaHitam/wuwa-wallpaper-data/main/Jingran%20(5).jpg"
+      ]
     }
+  ]
+}
